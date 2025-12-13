@@ -1,3 +1,4 @@
+COMPUTER ENGINEER - SOFTWARE DEVELOPER
 - 👋 Hi, I’m @the15developer
 - 👀 I’m interested in full stack web development, artifficial intelligence (image processing, data analysis, machine learning and deep learning, natural language processing) and embedded systems programming
 - 🌱 I’m currently learning about Action Recognition using AI models
